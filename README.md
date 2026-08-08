@@ -4,6 +4,10 @@ Primera aplicación de Flutter.
 
 Este proyecto tiene el objetivo es preparar un entorno de desarrollo Flutter funcional y crear el primer proyecto base con `flutter create`.
 
+Primera aplicación de Flutter, desarrollada como parte del curso **Programación Móvil (SS603)** — Semana 1: *El panorama móvil en 2026*.
+
+Este proyecto corresponde a la entrega **E01 – Entorno listo y proyecto inicial**, cuyo objetivo es preparar un entorno de desarrollo Flutter funcional y crear el primer proyecto base con `flutter create`.
+
 ## 🚀 Tecnologías
 
 - **Flutter** (Channel stable, 3.44.9)
@@ -63,3 +67,16 @@ flutter_first_proyect/
    ```bash
    flutter run
    ```
+
+   ```
+
+## 🎯 Objetivos de la semana 1 (RAA1)
+
+- Distinguir aplicaciones nativas, híbridas, multiplataforma y PWA con criterios de ingeniería.
+- Justificar la elección de una tecnología según rendimiento, acceso a hardware, equipo y costo de mantenimiento.
+- Preparar un entorno de desarrollo Flutter funcional.
+
+## 👤 Autor
+
+**zeb064** — Programación Móvil SS603 · 2026-2
+
